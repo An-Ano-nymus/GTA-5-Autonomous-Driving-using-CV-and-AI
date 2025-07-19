@@ -76,20 +76,10 @@ GTA V (PC version)
 
 Python 3.7+
 
-TensorFlow, OpenCV, NumPy, Pickle, etc.
+TensorFlow, Pandas, OpenCV, NumPy, Pickle, etc.
 
 ---
 
-# Install dependencies
-pip install -r requirements.txt
-
-# Train the model
-python train.py
-
-# Run the AI driver
-python gta_ai_driver.py
-
----
 
 ## 🏁 Results
 The AI agent successfully tested and drives across highways and roads while avoiding crashes in GTA-5 Simulation.
