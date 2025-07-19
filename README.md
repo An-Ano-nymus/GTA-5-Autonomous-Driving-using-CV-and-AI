@@ -18,6 +18,11 @@ Finally, use the model in game with test_model.py.
 
 ...you'll probably want to poke into the tutorials here: https://pythonprogramming.net/game-frames-open-cv-python-plays-gta-v/. If you need tutorials on deep learning, or tensorflow, or tflearn, see here: https://pythonprogramming.net/tensorflow-introduction-machine-learning-tutorial/
 
+## 📢 Check out the LinkedIn post about this project:  
+👉 [View Post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:ugcPost:7212702536871419904/)
+
+---
+
 # 🚗 GTA 5 Autonomous AI Driver using Computer Vision and Deep Learning
 
 This project showcases an AI-powered **Autonomous Driving Agent** for GTA V built using **OpenCV**, **Deep Learning (CNNs)**, and **TensorFlow 2.0**. The system captures the driver’s in-game view, processes the visual input to detect road lanes and obstacles, and sends simulated keystrokes to control the car — all in real time.
