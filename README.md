@@ -72,7 +72,7 @@ python gta_ai_driver.py
 ---
 
 ## 🏁 Results
-The AI agent successfully drives across highways and roads while avoiding crashes.
+The AI agent successfully tested and drives across highways and roads while avoiding crashes in GTA-5 Simulation.
 
 Seamless integration between vision, decision-making, and control.
 
@@ -98,9 +98,6 @@ Raghav Garg
 ---
 
 ## ⭐ If you like this project, don't forget to star the repo!
-yaml
-Copy
-Edit
 
 ---
 
