@@ -56,7 +56,7 @@ GTA V (PC version)
 
 Python 3.7+
 
-TensorFlow, OpenCV, NumPy, etc.
+TensorFlow, OpenCV, NumPy, Pickle, etc.
 
 ---
 
