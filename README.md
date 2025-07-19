@@ -60,6 +60,8 @@ This project showcases an AI-powered **Autonomous Driving Agent** for GTA V buil
 ```
 
 ### 🚀 Getting Started
+---
+
 
 ##Prerequisites:
 
