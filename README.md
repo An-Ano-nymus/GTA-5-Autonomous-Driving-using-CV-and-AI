@@ -46,19 +46,6 @@ This project showcases an AI-powered **Autonomous Driving Agent** for GTA V buil
 
 ---
 
-## 📦 Project Structure
-
-```bash
-├── data/                  # Raw and preprocessed training data
-├── model/                 # Trained CNN model files
-├── utils/                 # Helper functions (data collection, visualization)
-├── gta_ai_driver.py       # Main script for running the autonomous agent
-├── train.py               # Script to train the CNN model
-├── README.md              # This file
-├── GTA5 AI DRIVER.mp4     # Demo: AI driving
-├── GTA 5 COMPUTER VISION.mp4  # Demo: Lane & CV Detection
-```
-
 ### 🚀 Getting Started
 ---
 
